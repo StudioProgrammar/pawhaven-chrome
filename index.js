@@ -1,4 +1,4 @@
-var box = document.getElementById('check')
+/* var box = document.getElementById('check')
 let checker = false;
 
 let mything = document.getElementById('html-tag')
@@ -30,3 +30,5 @@ box.addEventListener('click' , () => {
         checker = false;
     }
 })
+
+*/
